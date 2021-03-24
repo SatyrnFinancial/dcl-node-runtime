@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "dcl-node-runtime@1.0.0",
+      "C:\\Users\\User\\Documents\\cli"
+    ]
+  ],
+  "_from": "dcl-node-runtime@1.0.0",
+  "_id": "dcl-node-runtime@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-lSkSlYYqrpz3asSsUShRFo/SscHdOstfUYGmbHQaoK4XDavsScCqI4Bpxc2haWG7HGXH/otzJdQnot6rNDlnyg==",
+  "_location": "/dcl-node-runtime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "dcl-node-runtime@1.0.0",
+    "name": "dcl-node-runtime",
+    "escapedName": "dcl-node-runtime",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dcl-node-runtime/-/dcl-node-runtime-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "C:\\Users\\User\\Documents\\cli",
+  "author": "",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "ws": "^7.3.1"
+  },
+  "description": "It is meant to run from a host application like this:",
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "@types/ws": "^7.2.7",
+    "@zeit/ncc": "^0.22.3",
+    "decentraland-rpc": "^3.1.8",
+    "fp-future": "^1.0.1",
+    "typescript": "^4.0.2",
+    "vm2": "^3.9.2"
+  },
+  "keywords": [],
+  "license": "Apache 2.0",
+  "main": "dist/index.js",
+  "name": "dcl-node-runtime",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
